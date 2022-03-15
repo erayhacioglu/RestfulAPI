@@ -1,4 +1,4 @@
-# Restful API | Nodejs + Express + Mongodb 
+# Restful API | Node.Js + Express.Js + MongoDB 
 > + C.R.U.D, Filter, Paginate, Sort and Search
 > 
 #### To start setting up the project
